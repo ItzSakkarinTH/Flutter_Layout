@@ -128,7 +128,7 @@ class MainApp extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      "50 saves",
+                      "250 saves",
                       style: TextStyle(
                         fontSize: 14,
                         fontWeight: FontWeight.normal,
